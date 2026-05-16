@@ -32,12 +32,8 @@ HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-ali
 ## Media
 
 ### Title
-album_1E2C9868_2E4F_B052_41A4_5A55FE3C55B4.label = Álbum de Fotos banner
-album_1E2C9868_2E4F_B052_41A4_5A55FE3C55B4_0.label = banner
 album_3B513881_1F24_ED3D_41B5_05F95E540D3B.label = Álbum de Fotos midia 
 album_3B513881_1F24_ED3D_41B5_05F95E540D3B_0.label = midia 
-album_3CA872C5_2E79_06FB_41B8_E3F577F68B00.label = Álbum de Fotos 720 x 800 px
-album_3CA872C5_2E79_06FB_41B8_E3F577F68B00_0.label = 720 x 800 px
 panorama_124C34C5_1EDF_26C5_41BA_46B02B03907F.label = sala da porta recepção 3
 panorama_124D0834_1EDF_2D5A_41BC_85B5C1C5BB33.label = consultorio  6
 panorama_124D19FD_1EDF_2ECA_41AD_A5707185EB58.label = corredor foto 3

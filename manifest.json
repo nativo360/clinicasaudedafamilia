@@ -1,5 +1,4 @@
 {
- "name": "Clinica Saude  da Familia",
  "icons": [
   {
    "type": "image/png",
@@ -37,8 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
+ "name": "Clinica Saude  da Familia",
+ "display": "fullscreen",
  "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm",
- "display": "fullscreen"
+ "start_url": "index.htm"
 }
